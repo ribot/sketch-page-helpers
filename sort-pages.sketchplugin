@@ -1,6 +1,4 @@
 for (var i=0; i<selection.count(); i++) {
     var layer = selection[i];
-
-print(layer);
-
+    print(layer);
 }
