@@ -1,3 +1,6 @@
-// Sort pages (option shift s)
+// Sort pages (control shift s)
 
-print("Hello")
+// Sort the pages using the
+var sortDescriptor = [[NSSortDescriptor alloc] initWithKey:@"name" ascending:true];
+var sortDescriptors = [NSArray arrayWithObject:sortDescriptor];
+[[[[doc documentData] pages] array] sortUsingDescriptors:sortDescriptors];
