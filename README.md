@@ -1,8 +1,14 @@
-# Sketch Page Helper
+# Sketch Page Helpers
 This plugin includes a few simple actions to make managing pages easier in Sketch.
 
 - Duplicate page under current (⌃⇧D)
 - Sort pages (⌃⇧S)
+
+# Compatibility
+Tested on Sketch 3.2.1
+
+# Known issues
+Sketch will not update the list of pages after using an action. To fix this you can toggle the Pages panel visibility.
 
 # Licence
 ```
