@@ -1,4 +1,4 @@
-// Duplicate page (command shift d)
+// Duplicate page (option shift d)
 
 // Ask for the new page name
 var newName = [doc askForUserInput:"Name page name?" initialValue:[[doc currentPage] name]]
