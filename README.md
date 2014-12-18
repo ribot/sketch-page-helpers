@@ -4,6 +4,12 @@ This plugin includes a few simple actions to make managing pages easier in Sketc
 - Duplicate page under current (⌃⇧D)
 - Sort pages (⌃⇧S)
 
+# Installation
+1. Download the repository using this [link](https://github.com/ribot/sketch-page-helpers/archive/master.zip)
+2. Unzip the files from the ZIP
+3. In Sketch 3, select `Plugins > Reveal Plugins Folder...` from the menu bar
+4. Put those files in this folder
+
 # Compatibility
 Tested on Sketch 3.2.1
 
